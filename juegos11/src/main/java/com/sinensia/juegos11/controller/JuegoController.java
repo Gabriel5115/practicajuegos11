@@ -13,7 +13,6 @@ import org.springframework.web.util.UriComponentsBuilder;
 
 import com.sinensia.juegos11.business.services.JuegoServices;
 import com.sinensia.juegos11.model.Juego;
-import com.sinensia.juegos11.repositories.JuegoRepositository;
 
 @RestController
 public class JuegoController {
